@@ -1,0 +1,6 @@
+{
+  "name": "Dinero Proposal Generator",
+  "description": "Internal digital marketing agency proposal generator for creating customized client proposals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
